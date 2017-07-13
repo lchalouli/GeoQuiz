@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="question_paris">Paris est la capitale de la France.</string>
+    <string name="question_algerie">Alger est la capitale de l\'Algérie.</string>
+    <string name="question_irlande">Zurich est la capitale de l\'Irlande.</string>
+</resources>
